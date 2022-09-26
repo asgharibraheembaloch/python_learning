@@ -84,7 +84,7 @@ print(integer_dict['c']) # if key which is not in the dictionary provided then d
 
 ### deque ###
 """"
-deque is double ended queue and it can be used to remove
+deque is double ended queue and it can be used to remove and add
 elements from both ends
 """
 from collections import deque
